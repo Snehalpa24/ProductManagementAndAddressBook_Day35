@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.exe
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.deps.json
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.runtimeconfig.json
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.dll
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\bin\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.pdb
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.dll
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.pdb
+C:\Users\HP\source\repos\ProductReviewManagementwithLinq\obj\Debug\netcoreapp3.1\ProductReviewManagementwithLinq.genruntimeconfig.cache
